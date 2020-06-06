@@ -11,7 +11,7 @@ Contents
 I wanted to replicate this design I found online but add a mouse parallax to the landscape elements in the background so it looks like you're zooming in. It turned out pretty well but you have to imagine what this could look like if an actual illustrator provided me illustrations!
 
 This is the design inspiration:
-![image:Freepik.com](/example.jpg)
+![image:Freepik.com](/inspiration.jpg)
 
 This is a screenshot of the app:
 ![screenshot](/screenshot.PNG)
